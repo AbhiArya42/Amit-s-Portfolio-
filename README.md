@@ -1,1 +1,2 @@
-this is new portfolio
+Personal Portfolio using HTML,CSS and JS
+
